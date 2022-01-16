@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+- Brot
+- Äpfel
+- Tomaten
+- Schinken
