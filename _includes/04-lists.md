@@ -1,0 +1,4 @@
+- Brot
+- Äpfel
+- Tomaten
+- Schinken

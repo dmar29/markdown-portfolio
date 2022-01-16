@@ -1,0 +1,4 @@
+- **Python**
+- *SQL*
+- **Data Science**
+- *Visual Basic for Applications*
